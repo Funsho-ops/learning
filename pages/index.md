@@ -4,7 +4,7 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to notOnPrem Learning Community
 
 This is a starter template for a docsy jekyll theme.
 
@@ -12,14 +12,12 @@ This is a starter template for a docsy jekyll theme.
 
 ## Purpose
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a master branch (or general GitHub pages).
-I found Docsy, a beautiful Hugo template, but it requires hugo with GoLang
-which doesn't render natively on GitHub pages. For this reason, I've spent
-some time creating a custom Jekyll template that is (almost) as beautiful,
-and includes all the features that I might want.
+Welcome, All!
+Our mission is very simple -  Learn Cloud Computing and get a Job. 
+We are going to be very direct and practical. 
+We don't need to learn everything, we learn the fundamentals, get our hands dirty doing tasks, get certs and prepare for interviews.
+
+I have done these with a couple of FAF and I'm happy to apply the same strategies to guide us all but ultimately, the obligation for success lies with YOU..
 
 ## Features
 

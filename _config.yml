@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+baseurl: /Learning
+url: http://Funsho-ops/learning.github.io
+
 title: Docsy Jekyll
 email: your-email@domain.com
 author: Dinosaur Avocado
